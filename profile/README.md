@@ -13,7 +13,7 @@ Esta cuenta contiene los repositorios del curso [ECON-1302](https://github.com/t
 Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/taller-r-202302/.github/blob/main/syllabus.pdf)
 
 ### Repositorios
-- **clase-01:** Introducción al curso. [[lecture]](https://lectures-r.gitlab.io/uniandes-202302/clase-01/)
+- **clase-01:** Introducción al curso. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-01/)
 - **clase-02:** Fundamentos de programación 
 - **clase-03:** Estructuras de datos en R 
 - **clase-04:** Proyectos en R 
