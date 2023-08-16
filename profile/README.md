@@ -14,7 +14,7 @@ Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/
 
 ### Repositorios
 - **clase-01:** Introducción al curso. [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-01/)
-- **clase-02:** Fundamentos de programación 
+- **clase-02:** Fundamentos de programación [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-02/)
 - **clase-03:** Estructuras de datos en R 
 - **clase-04:** Proyectos en R 
 - **clase-05:** Data Wrangling en R 
