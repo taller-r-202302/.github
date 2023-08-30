@@ -6,7 +6,7 @@ Esta cuenta contiene los repositorios del curso [ECON-1302](https://github.com/t
 
 - :file_folder: **output**: contiene los gráficos, tablas y conjuntos de datos procesados en cada clase. 
 
-- :file_folder: **source**: contiene el script de la clase.
+- :file_folder: **code**: contiene el script de la clase.
 
 - :book: **README.md**: contiene la descripción del repositorio y el link a las lectures de la clase.
 
