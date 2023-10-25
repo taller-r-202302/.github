@@ -21,7 +21,7 @@ Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/
 - **clase-06:** Data Wrangling en R [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-06) - [[repositorio]](https://github.com/taller-r-202302/clase-06) 
 - **clase-07-08:** Combinar y describir/resumir un conjunto de datos [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-07) - [[repositorio]](https://github.com/taller-r-202302/clase-07-08) 
 - **clase-09:** Visualización de información: `ggplot` [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-09) - [[repositorio]](https://github.com/taller-r-202302/clase-09) 
-- **clase-10:** Loops y Familia Apply
+- **clase-10:** Loops y Familia Apply [[lecture]](https://lectures-r.gitlab.io/taller-r/clase-10) - [[repositorio]](https://github.com/taller-r-202302/clase-10) 
 - **clase-11:** Introducción a web-scraping
 - **clase-12:** Introducción a datos GIS
 - **clase-13:** APPIS en R
